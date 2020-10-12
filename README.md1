@@ -1,0 +1,2 @@
+# RCP
+RCP (Rayleigh Wave Consensus Mechanism Protocol) is a blockchain-based electronic financial transaction protocol, and is also a public chain ecological platform that is positioned in the digital financial industry. RCP uses the RCP (Rayleigh Wave Consensus Mechanism) consensus mechanism and relies on artificial neural networks & genetic algorithms to find the optimal solution for liquidation and payment. Can be applied to cross-chain, payment, redemption, decentralized transactions, etc.
